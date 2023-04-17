@@ -6,6 +6,7 @@ import projImg3 from "../assets/img/mac.jpg";
 import projImg4 from "../assets/img/todo.jpg";
 import projImg5 from "../assets/img/tic.jpg";
 
+
 import projImg6 from "../assets/img/cart.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
